@@ -7,4 +7,4 @@ echo "Hello batch-19, We are learning Develops"
 echo "Welcome to Devops"
 echo "Good Morning"
 echo "This is Devops study week"
-echo "Github is Devops"
+
